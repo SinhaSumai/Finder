@@ -3,7 +3,7 @@ const access = "pwmSC_1HxKjcxzjoS3FdWA69I7ebUz7h3SDw-Jev9s8";
 const formEL = document.querySelector("form");
 const inpEL = document.querySelector("input");
 const searchResults = document.querySelector(".search__results");
-const showmoreEL = document.getElementById("show__more"); // Use getElementById for IDs
+const showmoreEL = document.getElementById("show__more"); 
 let inputData = "";
 let page = 1;
 
